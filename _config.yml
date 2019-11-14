@@ -26,9 +26,9 @@ projects:
     archived: false
     forks: true
     projects:
-     #- Webpack-lesson
+     # - Webpack-lesson
 
-  #social_media:
+ # social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
