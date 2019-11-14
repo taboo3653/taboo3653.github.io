@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 3
+  limit: 9
   exclude:
     archived: false
     forks: true
@@ -39,7 +39,7 @@ projects:
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
-  # telegram: your_username
+  telegram: taboo3653
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
