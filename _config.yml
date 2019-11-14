@@ -28,18 +28,18 @@ projects:
     projects:
     # - repo-name
 
- # social_media:
+  social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  linkedin: nikita-agafonov-73a659194
+  # linkedin: nikita-agafonov-73a659194
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
-  # telegram: taboo3653
+    telegram: taboo3653
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
