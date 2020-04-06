@@ -26,6 +26,7 @@ projects:
     archived: false
     forks: true
     projects:
+      - credit-card
 
 social_media:
   # behance: your_username
